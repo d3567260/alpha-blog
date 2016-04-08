@@ -65,8 +65,13 @@ $navbar-default-bg: #4682B4;
   padding-bottom: 15px;
 }
 
+.listing {
+  list-style: none;
+  padding-left: 0;
+}
+
 footer {
-  margin-top: 5px;
+  margin-top: 45px;
   padding-top: 5px;
   border-top: 1px solid #eaeaea;
   color: #777;
